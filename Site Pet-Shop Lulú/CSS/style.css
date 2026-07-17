@@ -22,12 +22,14 @@ box-shadow:0px 2px 8px rgba(0,0,0,0.1);
 .logo-1{
 color:rgb(103,58,3);
 font-size:20px;
+text-decoration: none;
 }
 
 .logo-2{
 color:rgb(153,90,14);
 font-weight:bold;
 font-size:20px;
+text-decoration: none;
 }
 
 nav{
